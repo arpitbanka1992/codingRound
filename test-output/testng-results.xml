@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13689" started-at="2019-07-02T07:43:25Z" finished-at="2019-07-02T07:43:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13689" started-at="2019-07-02T07:43:25Z" finished-at="2019-07-02T07:43:39Z">
+      <class name="codingRound.SignInTest">
+        <test-method status="PASS" signature="setupHomePage()[pri:0, instance:codingRound.SignInTest@4cc0edeb]" name="setupHomePage" is-config="true" duration-ms="11073" started-at="2019-07-02T13:13:25Z" finished-at="2019-07-02T13:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupHomePage -->
+        <test-method status="PASS" signature="testThatResultsAppearForAOneWayJourney()[pri:0, instance:codingRound.SignInTest@4cc0edeb]" name="testThatResultsAppearForAOneWayJourney" duration-ms="1903" started-at="2019-07-02T13:13:36Z" finished-at="2019-07-02T13:13:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThatResultsAppearForAOneWayJourney -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:codingRound.SignInTest@4cc0edeb]" name="tearDown" is-config="true" duration-ms="700" started-at="2019-07-02T13:13:38Z" finished-at="2019-07-02T13:13:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- codingRound.SignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
